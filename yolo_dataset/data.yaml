@@ -1,0 +1,12 @@
+path: /Users/lequangminh/Downloads/DACN-main/flower-image-search/yolo_dataset
+train: images
+val: images
+
+names:
+  0: daisy
+  1: dandelion
+  2: rose
+  3: sunflower
+  4: tulip
+
+nc: 5
